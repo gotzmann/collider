@@ -14,6 +14,8 @@
 #include <sys/sysctl.h>
 #endif
 
+#include "unistd.h"
+
 #include "ggml.h"
 #include "ggml-common.h"
 #include "ggml-backend.h"
